@@ -1,0 +1,41 @@
+.container{
+	display: felx;
+	background: #282D35;
+	padding: 58px 27px;
+	background-image: url("../src/assets/react-icon-large.png");
+	background-repeat: no-repeat;
+	background-position: right 75%;
+}
+
+.h1-header {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 39.06px;
+	line-height: 47px;
+	letter-spacing: -0.05em;
+	color: #FFFFFF;
+
+	text-align: center;
+}
+
+.main-items{
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	color: #FFFFFF;
+
+	margin-top: 46px;
+}
+
+.main-items > li {
+	padding-block: 10px; 
+}
+
+.main-items >li::marker{
+	font-size: 1.4rem;
+	color: #61DAFB;	
+}
+
