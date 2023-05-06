@@ -11,3 +11,7 @@ The project resources are from Scrimba React course at https://scrimba.com/learn
 
 ## 2. Airbnb Exeprience clone
 + This is a level-up one-page project that reproduce one of the Airbnb page.
++ It reuses the card components and unwrap all the properties of data.
++ Knew a little bit more about flex box in css. (Good for me)
+![P2](/img/P2.png)
+
